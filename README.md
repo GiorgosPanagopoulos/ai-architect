@@ -1,4 +1,4 @@
-# Module 3: Building Applications - The AI Architecture Stack
+# Building Applications - The AI Architecture Stack
 
 ## 🎯 Learning Objectives
 
