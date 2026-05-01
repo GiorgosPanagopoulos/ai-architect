@@ -81,7 +81,7 @@ You'll build a FastAPI application with three endpoints:
 ### Project Structure
 
 ```
-module_03_ai_architecture/
+ai_architecture/
 ├── README.md                    # This file
 ├── concepts/
 │   ├── patterns.md              # AI integration patterns
@@ -108,7 +108,7 @@ module_03_ai_architecture/
 
 ```bash
 # Navigate to module
-cd module_03_ai_architecture
+cd ai_architecture
 
 # Run the server
 python run.py
@@ -165,7 +165,6 @@ Graceful handling of:
 
 ## ✅ Checklist
 
-Before moving to Module 4:
 - [ ] Successfully run the FastAPI application
 - [ ] Test all three endpoints
 - [ ] Understand the LLM client abstraction
@@ -179,5 +178,3 @@ Before moving to Module 4:
 - [OpenAI Rate Limits](https://platform.openai.com/docs/guides/rate-limits)
 
 ---
-
-**Next Module**: [Module 4: RAG →](../module_04_rag/README.md)
